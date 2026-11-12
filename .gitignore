@@ -63,7 +63,7 @@
 *incremental_db/
 *db/
 *_output_files/
-synthesis
+# synthesis
 # Ignore Zips of skeleton code:
 *.zip
 # Ignore PDFs:

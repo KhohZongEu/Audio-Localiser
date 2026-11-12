@@ -1,0 +1,1 @@
+create_clock -name clk_50 -period 20.0 [get_ports CLOCK_50]; # 50MHz clock
